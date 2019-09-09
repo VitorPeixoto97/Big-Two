@@ -8,3 +8,7 @@
 [Francisco Oliveira](https://github.com/Tibblue)
 
 [Ricardo Neves](https://github.com/snow97)
+
+# Classification
+
+15.0
